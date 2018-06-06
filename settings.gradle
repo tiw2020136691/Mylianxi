@@ -1,1 +1,1 @@
-include ':mpulltorefresh', ':mxlistview', ':day01'
+include ':mpulltorefresh', ':mxlistview', ':day01', ':tianwang20180606'
