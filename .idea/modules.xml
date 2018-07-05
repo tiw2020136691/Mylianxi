@@ -3,10 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Mylianxi.iml" filepath="$PROJECT_DIR$/Mylianxi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day01/day01.iml" filepath="$PROJECT_DIR$/day01/day01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mpulltorefresh/mpulltorefresh.iml" filepath="$PROJECT_DIR$/mpulltorefresh/mpulltorefresh.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mxlistview/mxlistview.iml" filepath="$PROJECT_DIR$/mxlistview/mxlistview.iml" />
-      <module fileurl="file://$PROJECT_DIR$/tianwang20180606/tianwang20180606.iml" filepath="$PROJECT_DIR$/tianwang20180606/tianwang20180606.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unit01/unit01.iml" filepath="$PROJECT_DIR$/unit01/unit01.iml" />
     </modules>
   </component>
 </project>

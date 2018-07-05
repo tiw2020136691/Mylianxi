@@ -8,10 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/day01" />
-            <option value="$PROJECT_DIR$/mpulltorefresh" />
-            <option value="$PROJECT_DIR$/mxlistview" />
-            <option value="$PROJECT_DIR$/tianwang20180606" />
+            <option value="$PROJECT_DIR$/unit01" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
